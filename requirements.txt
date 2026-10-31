@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+selenium
+webdriver-manager
+streamlit
+plotly
