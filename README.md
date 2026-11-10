@@ -1,4 +1,4 @@
-GU × UNIQLO 商品價格比較與視覺化分析
+# GU × UNIQLO 商品價格比較與視覺化分析
 
 使用 Python 與 Selenium 蒐集 GU、UNIQLO 商品資料，透過 Pandas 進行資料清理與統計分析，並結合 Plotly 與 Streamlit 建立互動式資料分析儀表板（Dashboard），呈現兩個服飾品牌的商品結構與價格差異。
 
